@@ -23,3 +23,8 @@ php artisan ser
 npm run dev
 ```
 Laman yang dibuka = php artisan ser
+
+user admin = admin@gmail.com
+pass admin = 123456
+user superadmin = superadmin@gmail.com
+pass superadmin = S123456
